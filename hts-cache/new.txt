@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:34:51	859/859	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%22664e04ff-692%22	https://www.erikahaiat.online/robots.txt		(from )
+14:34:51	31269/31269	---MCZ	200	added ('OK')	text/html	etag:W/%22667daab6-7a25%22	https://www.erikahaiat.online/	C:/Meus%20Sites/site%20Latam/www.erikahaiat.online/index.html	(from )
